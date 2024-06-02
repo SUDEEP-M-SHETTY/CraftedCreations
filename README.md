@@ -53,8 +53,8 @@ Welcome to my portfolio! I'm Sudeep, a Developer, Tech Enthusiast, and Coder. Th
 - [GitLab 101 Certification](https://university.gitlab.com/c/xa4_TWijS_KeG-fziX0-6A) - GitLab Inc. (May 2024)
 - [Introduction to Cybersecurity](https://www.freecodecamp.org/certification/schmelto/responsive-web-design) - Cisco Network Academy (Jul 2023)
 - [React (Basic) Certificate](https://www.hackerrank.com/certificates/12f449ac5355) - HackerRank (Mar 2024)
-- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/pLVhgtgXSES-qMfU1mM2dg) - SAP (Jul 2023)
-- [Python Fundamentals for Beginners](https://olympus.mygreatlearning.com/courses/12682/certificate) - IHK (Aug 2022)
+- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/pLVhgtgXSES-qMfU1mM2dg) - Postman (Jul 2023)
+- [Python Fundamentals for Beginners](https://olympus.mygreatlearning.com/courses/12682/certificate) - Great Learning Academy (Aug 2022)
 
 ---
 
