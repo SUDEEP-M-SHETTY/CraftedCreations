@@ -51,7 +51,7 @@ Welcome to my portfolio! I'm Sudeep, a Developer, Tech Enthusiast, and Coder. Th
 - [Introduction to Java](https://www.coursera.org/account/accomplishments/verify/4US8CGQB4KFW) - Coursera (Dec 2022)
 - [Introduction to Communication Science](https://www.coursera.org/account/accomplishments/verify/C2ABTVUKV88S) - Coursera (Jan 2023)
 - [GitLab 101 Certification](https://university.gitlab.com/c/xa4_TWijS_KeG-fziX0-6A) - GitLab Inc. (May 2024)
-- [Introduction to Cybersecurity](https://www.freecodecamp.org/certification/schmelto/responsive-web-design) - Cisco Network Academy (Jul 2023)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/1faa6068-b65c-4178-9a0f-607c7d5878ca/public_url) - Cisco Network Academy (Jul 2023)
 - [React (Basic) Certificate](https://www.hackerrank.com/certificates/12f449ac5355) - HackerRank (Mar 2024)
 - [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/pLVhgtgXSES-qMfU1mM2dg) - Postman (Jul 2023)
 - [Python Fundamentals for Beginners](https://olympus.mygreatlearning.com/courses/12682/certificate) - Great Learning Academy (Aug 2022)
