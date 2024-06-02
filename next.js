@@ -1,24 +1,24 @@
-import Image from 'next/image'
-import Link from 'next/link'
-import React, { forwardRef } from 'react'
+import Image from "next/image";
+import Link from "next/link";
+import React, { forwardRef } from "react";
 
-const HolopinImage = ({ @sudeepmshetty }, ref) => (
+const HolopinImage = ({ user }, ref) => (
   <a ref={ref}>
     <Image
-      src={`https://holopin.io/api/user/board?user=${sudeepmshetty}`}
-      alt={`@${sudeepmshetty}'s Holopin board`}
+      src={`https://holopin.me/${user}`}
+      alt={`@${user}'s Holopin board`}
       width={2428}
       height={764}
     />
   </a>
-)
+);
 
-const HolopinRef = forwardRef(HolopinImage)
+const HolopinRef = forwardRef(HolopinImage);
 
-const Holopin = ({ sudeepmshetty }) => (
+const Holopin = ({ user }) => (
   <div>
-    <Link href={`https://holopin.io/@${sudeepmshetty}`}>
-      <HolopinRef user={sudeepmshetty} />
+    <Link href={`https://holopin.io/@${user}`}>
+      <HolopinRef user={user} />
     </Link>
   </div>
-)
+);
