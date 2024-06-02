@@ -46,6 +46,12 @@ Welcome to my portfolio! I'm Sudeep, a Developer, Tech Enthusiast, and Coder. Th
 
 ---
 
+##Holopin Badges
+
+[![An image of @sudeepmshetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepmshetty)](https://holopin.io/@sudeepmshetty)
+
+---
+
 ## Certifications
 
 - [Introduction to Java](https://www.coursera.org/account/accomplishments/verify/4US8CGQB4KFW) - Coursera (Dec 2022)
